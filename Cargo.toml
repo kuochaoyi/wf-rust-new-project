@@ -1,0 +1,6 @@
+[package]
+name = "wf-rust-new-project"
+version = "0.1.0"
+authors = ["ChaoYi <master@wisdomfish.org>"]
+
+[dependencies]
