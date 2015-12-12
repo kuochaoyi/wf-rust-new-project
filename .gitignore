@@ -2,3 +2,6 @@ target
 
 # Cargo
 Cargo.lock
+
+# Sublime
+tmp*
